@@ -1,2 +1,16 @@
 # personal-notes
 Repo of interesting projects and documents
+
+**Run kafka using docker** https://itnext.io/how-to-install-kafka-using-docker-a2b7c746cbdc
+
+**Intellij Plugins** https://itnext.io/intellij-idea-plugins-which-every-java-developer-need-to-have-6017ef5c3de4
+
+**Deploy AWS lambdas from gitlab CI/CD** https://docs.gitlab.com/ee/user/project/clusters/serverless/aws.html
+
+**Gitalb CI/CD** https://hackernoon.com/configuring-gitlab-ci-yml-150a98e9765d
+
+**Gitlab CI/CD cross multiple projects** https://faun.pub/gitlab-pipeline-to-run-cross-multiple-projects-3563af5d6dca
+
+**Gitlab CI/CD with Multiple environments** https://about.gitlab.com/blog/2021/02/05/ci-deployment-and-environments/
+
+**Gitlab CI/CD for multiple AWS accounts** https://forum.gitlab.com/t/using-multiple-aws-accounts-for-deploy/7242
