@@ -14,3 +14,5 @@ Repo of interesting projects and documents
 **Gitlab CI/CD with Multiple environments** https://about.gitlab.com/blog/2021/02/05/ci-deployment-and-environments/
 
 **Gitlab CI/CD for multiple AWS accounts** https://forum.gitlab.com/t/using-multiple-aws-accounts-for-deploy/7242
+
+**Interactive execution** https://www.katacoda.com/
