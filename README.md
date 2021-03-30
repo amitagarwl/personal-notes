@@ -16,3 +16,5 @@ Repo of interesting projects and documents
 **Gitlab CI/CD for multiple AWS accounts** https://forum.gitlab.com/t/using-multiple-aws-accounts-for-deploy/7242
 
 **Interactive execution** https://www.katacoda.com/
+
+**SonarQube on maven porject** https://medium.com/knoldus/how-to-integrate-your-maven-project-with-sonarqube-79f7368f8c7a
