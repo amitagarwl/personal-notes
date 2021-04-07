@@ -20,3 +20,5 @@ Repo of interesting projects and documents
 **SonarQube on maven porject** https://medium.com/knoldus/how-to-integrate-your-maven-project-with-sonarqube-79f7368f8c7a
 
 **Selenium on docker** https://medium.com/@HoussemDellai/run-selenium-ui-tests-in-docker-containers-f41ae2796b8d
+
+**Docker Library Refrences** http://docs.docker.oeynet.com/samples/library/haproxy/
