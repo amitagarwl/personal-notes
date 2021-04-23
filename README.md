@@ -22,3 +22,5 @@ Repo of interesting projects and documents
 **Selenium on docker** https://medium.com/@HoussemDellai/run-selenium-ui-tests-in-docker-containers-f41ae2796b8d
 
 **Docker Library Refrences** http://docs.docker.oeynet.com/samples/library/haproxy/
+
+**GCP Deployment using Github Actions** https://towardsdatascience.com/deploy-to-google-cloud-run-using-github-actions-590ecf957af0
